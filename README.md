@@ -8,7 +8,7 @@
     <h3 align="center">💬 Contact me: <a href="mailto:vjetnodestudio@gmail.com">
             vjetnodestudio@gmail.com
         </a></h3>
-    <h3 align="center">🌱 Learning algorithms, making some projects using Nodejs, Go, . . .</h3>
+    <h3 align="center">🌱 Learning algorithms, making some projects using Nodejs, Go, Rust</h3>
     <p align="center" style="margin-bottom: 20px">
         <br>
         <br><br>
